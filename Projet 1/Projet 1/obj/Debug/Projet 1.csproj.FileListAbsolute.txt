@@ -1,0 +1,7 @@
+C:\Users\latitude\Desktop\C#\Projet 1\Projet 1\bin\Debug\Projet 1.exe.config
+C:\Users\latitude\Desktop\C#\Projet 1\Projet 1\bin\Debug\Projet 1.exe
+C:\Users\latitude\Desktop\C#\Projet 1\Projet 1\bin\Debug\Projet 1.pdb
+C:\Users\latitude\Desktop\C#\Projet 1\Projet 1\obj\Debug\Projet 1.csproj.AssemblyReference.cache
+C:\Users\latitude\Desktop\C#\Projet 1\Projet 1\obj\Debug\Projet 1.csproj.CoreCompileInputs.cache
+C:\Users\latitude\Desktop\C#\Projet 1\Projet 1\obj\Debug\Projet 1.exe
+C:\Users\latitude\Desktop\C#\Projet 1\Projet 1\obj\Debug\Projet 1.pdb
